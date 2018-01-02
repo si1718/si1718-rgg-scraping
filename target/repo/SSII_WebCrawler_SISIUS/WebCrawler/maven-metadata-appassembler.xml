@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>SSII_WebCrawler_SISIUS</groupId>
+  <artifactId>WebCrawler</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180102075357</lastUpdated>
+  </versioning>
+</metadata>
