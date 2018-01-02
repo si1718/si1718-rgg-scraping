@@ -32,7 +32,7 @@
 					<assembleDirectory>target</assembleDirectory>
 					<programs>
 						<program>
-							<mainClass>TestJsoup</mainClass>
+							<mainClass>web.scraping.jsoup.TestJsoup</mainClass>
 							<name>scraping</name>
 						</program>
 					</programs>
